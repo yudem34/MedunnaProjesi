@@ -9,11 +9,9 @@ import pages.MedunnaPage;
 import utilities.ConfigReader;
 import utilities.Driver;
 
-import java.security.Key;
-
 import static org.junit.Assert.assertTrue;
 
-public class MdeunnaStepDefinitions {
+public class MedeunnaStepDefinitions {
     MedunnaPage medunna = new MedunnaPage();
 
     @Given("Admin www.medunna.com adresine gider")

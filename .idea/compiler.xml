@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="MedunnaProjesi" />
+        <module name="batch81Cucumber" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
