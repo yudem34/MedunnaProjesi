@@ -11,7 +11,7 @@ import utilities.Driver;
 
 import static org.junit.Assert.assertTrue;
 
-public class MedeunnaStepDefinitions {
+public class MedunnaStepDefinitions {
     MedunnaPage medunna = new MedunnaPage();
 
     @Given("Admin www.medunna.com adresine gider")
