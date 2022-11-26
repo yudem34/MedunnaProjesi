@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="16.651">
+    <testcase classname="US17 Test items(oge) Olustur / Guncelle / Sil" name="Admin, &quot;test items; Name, Description, price Default min value, Default max value ve" time="16.207">
+        <system-out>
+            <![CDATA[Given Admin www.medunna.com adresine gider..................................passed
+Then Giris yap simgesine ve acilan menude Sign-in secenegine tiklar.........passed
+And Admin gecerli bir Username girer........................................passed
+And Admin gecerli bir password girer........................................passed
+And Sign in butonuna tiklar.................................................passed
+And Items&Title menusunden Test Item secenegine tiklar......................passed
+And Urunun bulundugu sayfaya gider..........................................passed
+And Urundeki edit butonuna tiklar...........................................passed
+And Belirtilen degerlerde guncelleme yapar ve Save butonuna tiklar..........passed
+And Kaydedildi yazisinin gorunurlugunu kontrol eder.........................passed
+And Sayfayi kapatir.........................................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
